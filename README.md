@@ -33,7 +33,7 @@ Complete all exercises in `level-one.js`, `level-two.js` and `level-three.js`.
 
 **If you get stuck, ask for help from a mentor!**
 
-You are expected to complete and submit this project by the end of this week. Don't waste time!
+You are expected to complete and submit these exercises by the end of this week. Don't waste time!
 
 ## Submission
 ```bash
