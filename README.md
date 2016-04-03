@@ -9,8 +9,8 @@ If the test is all green then your function is correct!
 First, we need to check out the project.
 
 * On this page, click **Fork** in the top right to get your own copy
-* Then open up Cloud9, and clone this repository (it’s called **jsExercises-April5-2016**)
-  into your workspace. Leave this workspace as **Custom**.
+* Then open up Cloud9. Go to Respositories, find **jsExercises-April5-2016** and click **Clone to edit**.
+* Name the Workspace as **jsexercises-april5-2016**, leave all other settings as default and click **Create workspace**.
 * Open `level-one.js` in your project workspace.
 
 Let's complete the first function `sayHello(name)`.
